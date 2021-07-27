@@ -1,0 +1,4 @@
+  File "ageindays.py", line 10
+    print "Good morning sir it is 6 am...", t
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Good morning sir it is 6 am...", t)?
